@@ -1,0 +1,12 @@
+{
+  "betblasmod:OrbID": {
+    "NAME": "Orb Name",
+    "DESCRIPTION": [
+      "#yПассивно: At the start of your turn, draw #b",
+      " card.",
+      " cards.",
+      " NL #yРазрядка: Наносит #b",
+      " урона всем врагам (тут и на англ \"всей\" маленькими буквами)."
+    ]
+  }
+}
